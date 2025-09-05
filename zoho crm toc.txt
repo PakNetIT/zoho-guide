@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PakNet Technologies Zoho CRM Quick Reference Guide</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f7fafc;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e2e8f0;
+        }
+        h3 {
+            font-weight: 600;
+            font-size: 1.25rem;
+            color: #1a202c;
+            margin-bottom: 10px;
+        }
+        h4 {
+            font-weight: 500;
+            font-size: 1rem;
+            margin-top: 15px;
+            margin-bottom: 5px;
+        }
+        a {
+            text-decoration: none;
+            color: #4299e1;
+            transition: color 0.2s;
+        }
+        a:hover {
+            color: #2b6cb0;
+        }
+        p {
+            font-size: 0.875rem;
+            color: #4a5568;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3>PakNet Technologies CRM Quick Reference Guide</h3>
+        <p>
+            Here’s a quick overview of what each module is for, to help you get started and stay organized.
+        </p>
+
+        <h4><a href="#">Work Orders</a></h4>
+        <p>
+            This module is for managing big, complex projects. It's used for large, pre-quoted jobs with set contracts, like major network installations or audits.
+        </p>
+
+        <h4><a href="#">Tasks</a></h4>
+        <p>
+            This is your go-to module for internal administrative and logistical work. It's used for things like managing internal projects, handling inventory, submitting client contracts, and managing billing and payments.
+        </p>
+
+        <h4><a href="#">Help Desk Tickets</a></h4>
+        <p>
+            This module is the primary hub for all client-facing support. It is used for day-to-day tech support requests and to handle service level agreement (SLA) tickets.
+        </p>
+
+        <h4><a href="#">Meetings</a></h4>
+        <p>
+            This module is used for scheduling appointments and meetings. It helps the team track and manage all scheduled client and internal discussions.
+        </p>
+    </div>
+</body>
+</html>
